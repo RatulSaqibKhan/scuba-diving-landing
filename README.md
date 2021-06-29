@@ -1,2 +1,3 @@
-# scuba-diving-landing
-This is a simple landing page using vue + tailwind
+# Scuba Diving Landing Page
+
+This is a scuba diving landing page using vue + tailwind
